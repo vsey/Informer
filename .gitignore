@@ -1,0 +1,7 @@
+mamba_env_cuda
+__pycache__/*
+tb_logs/*
+lightning_logs/*
+optuna.sqlite3
+optuna_old.sqlite3
+Datasets
